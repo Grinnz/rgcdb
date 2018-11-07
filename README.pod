@@ -1,8 +1,10 @@
-# NAME
+=pod
+
+=head1 NAME
 
 Rhythm Gaming Customs Database
 
-# COPYRIGHT AND LICENSE
+=head1 COPYRIGHT AND LICENSE
 
 This software is Copyright (c) 2018 by Dan Book.
 
